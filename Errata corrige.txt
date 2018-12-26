@@ -1,0 +1,4 @@
+Correzione 26 dicembre:
+- 16. Parsing (19 ott).pdf: Alla pagina 3, cambiato "LR(1)" in "LL(1)"
+- 25. Costruzione automa caratteristico per parsing LR(1) canonico (16 nov).pdf: Corretta imprecisione nell'esercizio di minimizzazione NFA
+- 23. Bottom-up parsing - introduzione (14 nov).pdf: Corretto esercizio di riconoscimento di una stringa con DFA ed aggiunta spiegazione
